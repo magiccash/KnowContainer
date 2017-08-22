@@ -10,6 +10,10 @@ http://cdc.tencent.com/ 腾讯UED
 # 博客
 http://www.ityouknow.com/ 纯洁的微笑
 
+比特币
+http://8btc.com/
+http://www.bitett.com/
+
 # 工具
 流程图 http://asciiflow.com/
 
