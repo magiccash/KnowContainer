@@ -12,7 +12,9 @@ http://www.ityouknow.com/ 纯洁的微笑
 
 # 比特币
 http://8btc.com/
+
 http://book.8btc.com/ 比特币电子书
+
 http://www.bitett.com/
 
 http://www.cybtc.com/ 彩云比特
