@@ -20,6 +20,8 @@ vim /etc/shadowsocks.json
 
 ssserver -c /etc/shadowsocks.json -d start
 
+ps -ef | grep 'ssserver'
+
 ssserver -c /etc/shadowsocks.json -d stop
 
 
