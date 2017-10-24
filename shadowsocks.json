@@ -1,0 +1,9 @@
+{
+  "server":"45.77.166.204",
+  "server_port":8388,
+  "password":"magic@123",
+  "timeout":600,
+  "method":"aes-256-cfb",
+  "fast_open":false,
+  "workers": 3
+}
