@@ -5,10 +5,15 @@
 
 #技术网站
 [博客园](https://www.cnblogs.com/)
+
 [highscalability](http://highscalability.com/)
+
 [stackoverflow](https://stackoverflow.com/)
+
 [uml](http://www.uml.org.cn/)
+
 [itpub](http://www.itpub.net/)
+
 [大前端](http://www.daqianduan.com/)
 
 # 用户研究
@@ -19,6 +24,7 @@
 
 # 个人博客
 [纯洁的微笑](http://www.ityouknow.com/)
+
 [翟永超](http://blog.didispace.com/)
 
 # 比特币
