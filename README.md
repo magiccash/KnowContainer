@@ -36,14 +36,25 @@
 [BT导航网](http://wherebt.com/)
 
 [slidershare](https://www.slideshare.net)
+
 [艾瑞网](http://www.iresearch.cn/)
+
 [dnspod](https://www.dnspod.cn/)
+
 [idea 注册服务器](http://idea.youbbs.org)
+
 [sosoapi接口文档工具](http://www.sosoapi.com)
+
 [confluence文档协调管理](https://www.atlassian.com/software/confluence)
+
 [多人在线白板](https://witeboard.com)
+
 [看板式任务管理leangoo](https://www.leangoo.com)
+
 [postman接口测试](https://www.getpostman.com)
+
 [蓝湖设计](https://lanhuapp.com)
+
 [石墨文档](https://shimo.im)
+
 mongodb client Robo 3T
