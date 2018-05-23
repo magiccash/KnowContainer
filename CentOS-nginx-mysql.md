@@ -1,6 +1,6 @@
 # 安装nginx
 yum -y install nginx
-# 安装mysql 
+# 安装mysql
 wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
 rpm -ivh mysql57-community-release-el7-11.noarch.rpm
 yum -y install mysql-community-server
@@ -15,11 +15,20 @@ validate_password插件安装并启用
 $ sudo grep 'temporary password' /var/log/mysqld.log
 可以通过以下命令并使用自动生成的临时密码登录，然后修改为一个自定义密码：
 
-$ mysql -u root -p 
+$ mysql -u root -p
 密码修改：
 
 $ ALTER USER 'root'@'localhost' IDENTIFIED BY 'newPassword';
 注意：MySQL的validate_password插件是默认安装的。这要求MySQL密码至少包含一个大写字母、一个小写字母、一个数字和一个特殊字符，并且总密码长度至少为8个字符。
 
 # 安装java
+
+卸载 jdk
+rpm -qa | grep jdk
+
 rpm -ivh jdk-8u101-linux-x64.rpm
+
+# yum安装 maven
+sudo wget http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo -O /etc/yum.repos.d/epel-apache-maven.repo
+sudo sed -i s/\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo
+sudo yum install -y apache-maven
