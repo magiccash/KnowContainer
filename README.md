@@ -27,6 +27,8 @@
 
 [翟永超](http://blog.didispace.com/)
 
+[novoland](http://novoland.github.io/index.html)
+
 # 比特币
 [8btc](http://8btc.com/)
 
