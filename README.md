@@ -70,3 +70,5 @@
 [typora markdown edit](https://www.typora.io/)
 
 [mongodb client Robo 3T](https://robomongo.org/)
+
+[wiki示例](http://wiki.caibaopay.com/)
