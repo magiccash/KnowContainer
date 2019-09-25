@@ -71,6 +71,8 @@
 
 [mongodb client Robo 3T](https://robomongo.org/)
 
-[wiki示例](http://wiki.caibaopay.com/)
+[wiki编写示例](http://wiki.caibaopay.com/)
 
 [时序图](https://www.websequencediagrams.com)
+
+[database-doc-generator](https://gitee.com/enilu/database-doc-generator)
